@@ -1,2 +1,2 @@
 My second readme 
-now i am updating my README.md file from wed
+ i am updating my README.md file from remote or web ui
